@@ -1,0 +1,34 @@
+/*--- elemento universal ---*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: rgb(225, 224, 224);
+}
+
+/*--- Inicio do cabecalho ---*/
+nav {
+    background-image: linear-gradient(to right ,blue, purple, purple);
+    border-radius: 25px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 600px; 
+    margin: 0 auto;   
+}
+
+span.texto-usuario {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+/*--- fim do cabecalho*/
+
+/*Animação*/
+.fade-out {
+    opacity: 0;
+    transform: scale(0.95);
+    transition: all 0.3s ease-in-out;
+}
