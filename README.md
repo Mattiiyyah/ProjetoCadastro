@@ -28,7 +28,7 @@
 
 ## 🎯 Objetivo do projeto
 
-Esse projeto foi desenvolvido com acompanhamento e orientação prática, onde cada parte foi compreendia e construída com foco em aprendizado real.
+Esse projeto foi desenvolvido com acompanhamento e orientação prática, onde cada parte foi compreendida e construída com foco em aprendizado real.
 
 ---
 
