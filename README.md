@@ -28,7 +28,7 @@
 
 ## 🎯 Objetivo do projeto
 
-Esse projeto foi feito com o objetivo de praticar lógica de programação com JavaScript, manipulação do DOM e conceitos fundamentais de CRUD (Create, Read, Update, Delete) com armazenamento local.
+Esse projeto foi desenvolvido com acompanhamento e orientação prática, onde cada parte foi compreendia e construída com foco em aprendizado real.
 
 ---
 
