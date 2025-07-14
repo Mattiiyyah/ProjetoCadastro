@@ -15,7 +15,7 @@ body {
 
 /*--- Inicio do Cabecalho ---*/
 nav {
-    background-image: linear-gradient(to right ,purple, blue, blue);
+    background-image: linear-gradient(to right ,blue, purple, purple);
     border-radius: 25px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
     max-width: 600px; 
