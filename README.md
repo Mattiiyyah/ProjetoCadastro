@@ -44,7 +44,24 @@ Esse projeto foi desenvolvido com acompanhamento e orientação prática, onde c
 https://mattiiyyah.github.io/ProjetoCadastro/
 
 ---
+## 🚀 Como executar o projeto localmente
 
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/mattiiyyah/ProjetoCadastro.git
+
+2. **Abra a pasta no seu editor de texto(ex: VS Code):**
+
+cd ProjetoCadastro
+
+3. Abra o arquivo index.html no navegar
+
+Não precisa instalar nada nem rodar servidor.
+O projeto é totalmente feito com HTML, CSS e JavaScript puro no front-end.
+
+
+---
 ## 🧑‍💻 Desenvolvido por
 
 **Matheus de Paula Santos**  
