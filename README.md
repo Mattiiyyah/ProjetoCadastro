@@ -50,11 +50,11 @@ https://mattiiyyah.github.io/ProjetoCadastro/
 
 ```bash
 git clone https://github.com/mattiiyyah/ProjetoCadastro.git
-
+```
 2. **Abra a pasta no seu editor de texto(ex: VS Code):**
-
+```
 cd ProjetoCadastro
-
+```
 3. Abra o arquivo index.html no navegar
 
 Não precisa instalar nada nem rodar servidor.
